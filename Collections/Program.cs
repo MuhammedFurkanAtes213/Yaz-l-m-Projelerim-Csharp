@@ -14,11 +14,11 @@ namespace Collections {
 
             ArrayList liste = new ArrayList();
 
-            liste.Add(10);
-            liste.Add("10");
-            liste.Add("ali");
-            liste.Add(null);
-            liste.Add(true);
+            liste.Add(10);    //1.  Elemanı
+            liste.Add("10");  //2.  Elemanı
+            liste.Add("ali"); //3   Elemanı
+            liste.Add(null);  //4.  Elemanı
+            liste.Add(true);  //5.  Elemanı
 
             var liste2 = new ArrayList() {
                 5,
