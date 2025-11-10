@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Yazılım Projelerim C#\\Bilgi\\Bilgi\\Bilgi.csproj": {}
+    "E:\\Yazılım Projelerim C#\\Hata-Yönetimi\\Debug\\Debug.csproj": {}
   },
   "projects": {
-    "E:\\Yazılım Projelerim C#\\Bilgi\\Bilgi\\Bilgi.csproj": {
+    "E:\\Yazılım Projelerim C#\\Hata-Yönetimi\\Debug\\Debug.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Yazılım Projelerim C#\\Bilgi\\Bilgi\\Bilgi.csproj",
-        "projectName": "Bilgi",
-        "projectPath": "E:\\Yazılım Projelerim C#\\Bilgi\\Bilgi\\Bilgi.csproj",
+        "projectUniqueName": "E:\\Yazılım Projelerim C#\\Hata-Yönetimi\\Debug\\Debug.csproj",
+        "projectName": "Debug",
+        "projectPath": "E:\\Yazılım Projelerim C#\\Hata-Yönetimi\\Debug\\Debug.csproj",
         "packagesPath": "C:\\Users\\Muhammed Furkan Ateş\\.nuget\\packages\\",
-        "outputPath": "E:\\Yazılım Projelerim C#\\Bilgi\\Bilgi\\obj\\",
+        "outputPath": "E:\\Yazılım Projelerim C#\\Hata-Yönetimi\\Debug\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,15 @@
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\bin\Debug\net8.0\Bilgi.exe
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\bin\Debug\net8.0\Bilgi.deps.json
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\bin\Debug\net8.0\Bilgi.runtimeconfig.json
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\bin\Debug\net8.0\Bilgi.dll
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\bin\Debug\net8.0\Bilgi.pdb
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\Bilgi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\Bilgi.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\Bilgi.AssemblyInfo.cs
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\Bilgi.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\Bilgi.sourcelink.json
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\Bilgi.dll
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\refint\Bilgi.dll
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\Bilgi.pdb
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\Bilgi.genruntimeconfig.cache
+E:\Yazılım Projelerim C#\Bilgi\Bilgi\obj\Debug\net8.0\ref\Bilgi.dll
